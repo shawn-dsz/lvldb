@@ -1,0 +1,25 @@
+{
+  "name": "lvldb",
+  "version": "0.0.0",
+  "description": "levelDb playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawn-dsz/lvldb.git"
+  },
+  "keywords": [
+    "leveldb"
+  ],
+  "author": "shawn-dsz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawn-dsz/lvldb/issues"
+  },
+  "homepage": "https://github.com/shawn-dsz/lvldb#readme",
+  "dependencies": {
+    "level": "^1.7.0"
+  }
+}
