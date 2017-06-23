@@ -21,5 +21,8 @@
   "homepage": "https://github.com/shawn-dsz/lvldb#readme",
   "dependencies": {
     "level": "^1.7.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1"
   }
 }
